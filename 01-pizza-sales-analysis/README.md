@@ -48,5 +48,5 @@ A pizza restaurant needed to identify sales patterns to optimize its menu, staff
 ## 👤 Author
 
 **Luis Marroquín** — Data Analyst
-- [LinkedIn](tu link)
+- [LinkedIn] https://www.linkedin.com/in/luisantoniomarroquin/
 - [Portfolio](https://github.com/luismarroquin27/Data_analyst_portfolio)
