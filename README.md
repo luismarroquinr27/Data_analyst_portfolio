@@ -29,8 +29,8 @@ Welcome to my data analysis portfolio. Here you'll find projects focused on solv
 
 ## 📫 Contact
 
-- **LinkedIn:** [](https://www.linkedin.com/in/luisantoniomarroquin/)
-- **Workana:** [](https://www.workana.com/freelancer/f0235e227a26ef581c0916cd512de167)
+- **LinkedIn:** https://www.linkedin.com/in/luisantoniomarroquin/
+- **Workana:** https://www.workana.com/freelancer/f0235e227a26ef581c0916cd512de167
 - **Email:** luismarroquinr27@gmail.com
 
 ---
