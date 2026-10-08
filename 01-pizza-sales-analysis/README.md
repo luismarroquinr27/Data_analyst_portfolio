@@ -13,7 +13,7 @@ A pizza restaurant needed to identify sales patterns to optimize its menu, staff
 
 ## 📊 Dashboard Preview
 
-[![Dashboard](images/dashboard.png)](https://github.com/luismarroquinr27/Data_analyst_portfolio/blob/214f51b31582c41dd531653a525ae98ca605bce0/imagen_2026-10-07_130425518.png)
+[[![Dashboard](images/dashboard.png)](https://github.com/luismarroquinr27/Data_analyst_portfolio/blob/214f51b31582c41dd531653a525ae98ca605bce0/imagen_2026-10-07_130425518.png)](https://github.com/luismarroquinr27/Data_analyst_portfolio/blob/88cc526270f3248fac2aa940b2e8647e147afddc/pizza-sales-dashboard-2015.png)
 
 ## 🔍 Process
 
